@@ -15,4 +15,3 @@ The main thing that hooked me was pygame's draw function, which automatically dr
 and see what it could do. It's certainly not what what you'd consider pygame's traditional use to be, but a fun project nonetheless. 
 This isn't anything fancy, just a couple of simple functions.
 
-I'll be documenting and publishing my code here, and it's open source 
